@@ -1,3 +1,3 @@
 # README
-ePortfolio Abdelmajid EL HOU. 
+ePortfolio Abdelmajid EL HOU. Data analyst et scientist (Paris).
 
