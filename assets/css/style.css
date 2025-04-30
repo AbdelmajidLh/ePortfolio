@@ -820,6 +820,21 @@ section {
   fill: #11dbcf;
 }
 
+
+/*--------------------------------------------------------------
+# animation des icons
+--------------------------------------------------------------*/
+/* Animation spin à 90 degrés */
+.bx-spin-90 {
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(90deg); }
+}
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -1183,4 +1198,15 @@ section {
   font-style: italic; /* Italique pour un effet léger */
   font-size: 1rem; /* Taille de texte agréable */
   margin: 20px 0; /* Espacement avec les autres éléments */
+}
+
+
+/*--------------------------------------------------------------
+# frame siteweb datainsight-formation
+--------------------------------------------------------------*/
+/* Rendre l'iframe réactif */
+.iframe-container iframe {
+  width: 100%;
+  height: 600px;  /* ajuster la hauteur selon tes besoins */
+  border: none;
 }
