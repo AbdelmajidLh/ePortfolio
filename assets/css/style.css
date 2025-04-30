@@ -1210,3 +1210,24 @@ section {
   height: 600px;  /* ajuster la hauteur selon tes besoins */
   border: none;
 }
+
+
+/*--------------------------------------------------------------
+# spider chart des compétences data
+--------------------------------------------------------------*/
+/* Section Mes Compétences */
+.competences {
+  padding: 60px 0;
+  background-color: #f8f9fa;
+}
+
+.competences .section-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.competences canvas {
+  max-width: 100%;
+  height: 500px; /* Ajuste la hauteur si nécessaire */
+  margin: 0 auto;
+}

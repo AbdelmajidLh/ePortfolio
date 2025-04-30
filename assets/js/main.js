@@ -188,4 +188,42 @@
     items: 1
   });
 
+  // Initialisation du graphique radar pour la section "Mes Compétences"
+  $(document).ready(function() {
+    var ctx = document.getElementById('competences-chart').getContext('2d');
+    var competencesChart = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: ['Python', 'Langage R', 'Excel', 'SQL/Hive', 'KNIME', 'HTML - CSS', 'Scala', 'GitBash/GitLab', 'PySpark', 'Bash Linux', 'Tableau', 'WordPress/CMS', 'Photoshop', 'PLINK', 'Jenkins - XLRelease/XLDeploy', 'LaTeX'],
+        datasets: [{
+          label: 'Mes Compétences Data',
+          data: [80, 80, 85, 90, 85, 70, 60, 95, 65, 95, 80, 90, 70, 90, 70, 80],  // Valeurs extraites de l'image
+          backgroundColor: 'rgba(0, 123, 255, 0.2)',
+          borderColor: 'rgba(0, 123, 255, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          r: {
+            angleLines: {
+              display: true
+            },
+            suggestedMin: 0,
+            suggestedMax: 100,
+            ticks: {
+              stepSize: 20
+            }
+          }
+        },
+        responsive: true,
+        maintainAspectRatio: false
+      }
+    });
+  });
+  
+  
+
+
 })(jQuery);
+
