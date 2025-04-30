@@ -1169,3 +1169,18 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+
+/*--------------------------------------------------------------
+# cadre passions
+--------------------------------------------------------------*/
+.passions {
+  border: 2px solid #4CAF50; /* Cadre vert */
+  padding: 15px; /* Espacement autour du texte */
+  border-radius: 10px; /* Coins arrondis */
+  background-color: #f4f4f9; /* Couleur de fond légère */
+  font-style: italic; /* Italique pour un effet léger */
+  font-size: 1rem; /* Taille de texte agréable */
+  margin: 20px 0; /* Espacement avec les autres éléments */
+}
