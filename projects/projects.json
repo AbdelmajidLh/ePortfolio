@@ -1,0 +1,72 @@
+﻿[
+  {
+    "name": "Programme Mentorat Python & Data",
+    "desc": "Coaching personnalisé (Python, R, SQL) pour étudiants, doctorants et professionnels en reconversion avec projets guidés.",
+    "image": "assets/images/projects/mentorat-python.png",
+    "category": "formation",
+    "links": {
+      "view": "https://www.linkedin.com/in/aelhou/",
+      "code": "https://github.com/AbdelmajidLh"
+    }
+  },
+  {
+    "name": "Migration RGPD & DataOps MAIF",
+    "desc": "Pilotage des purges RGPD et automatisations VTOM/Python pour sécuriser la qualité des données contractuelles.",
+    "image": "assets/images/projects/rgpd-maif.png",
+    "category": "data",
+    "links": {
+      "view": "#contact",
+      "code": "https://www.linkedin.com/in/aelhou/"
+    }
+  },
+  {
+    "name": "Pipelines PySpark Groupama",
+    "desc": "Industrialisation de traitements PySpark/Scala, monitoring Hive et ordonnancement Oozie pour les équipes actuariat.",
+    "image": "assets/images/projects/groupama-pyspark.jpg",
+    "category": "data",
+    "links": {
+      "view": "#contact",
+      "code": "https://www.linkedin.com/in/aelhou/"
+    }
+  },
+  {
+    "name": "IA finance BPCE-SI",
+    "desc": "Développement d'un moteur de détection d'anomalies financières (Python, Teradata, SQL) pour renforcer la conformité.",
+    "image": "assets/images/projects/bpce-ia.png",
+    "category": "ia",
+    "links": {
+      "view": "#contact",
+      "code": "https://github.com/AbdelmajidLh"
+    }
+  },
+  {
+    "name": "E-commerce SnapYourStyle",
+    "desc": "Site marchand pour casquettes personnalisées : UX, intégration Shopify/WordPress et automatisation des stocks.",
+    "image": "assets/images/projects/snapyourstyle.jpg",
+    "category": "web",
+    "links": {
+      "view": "https://www.snapyourstyle.com",
+      "code": "https://github.com/AbdelmajidLh"
+    }
+  },
+  {
+    "name": "Ateliers DataViz & Tableau",
+    "desc": "Parcours immersif pour maîtriser Tableau/Excel avancé et structurer des dashboards décisionnels pour ONG et entreprises.",
+    "image": "assets/images/projects/tableau-data.png",
+    "category": "formation",
+    "links": {
+      "view": "https://datainsight-formation.com/",
+      "code": "#contact"
+    }
+  },
+  {
+    "name": "Académie Data Insight",
+    "desc": "Dispositif blended learning sur mesure (Linux, Python, statistiques) pour maîtriser les fondamentaux data en entreprise.",
+    "image": "assets/images/projects/datainsight.png",
+    "category": "formation",
+    "links": {
+      "view": "https://datainsight-formation.com/",
+      "code": "#contact"
+    }
+  }
+]
