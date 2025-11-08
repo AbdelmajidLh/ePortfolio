@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "PySpark",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png"
+  },
+  {
+    "name": "SQL / Hive",
+    "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-sql-coding-and-development-soft-fill-juicy-fish.png"
+  },
+  {
+    "name": "Scala",
+    "icon": "https://img.icons8.com/color/48/000000/scala.png"
+  },
+  {
+    "name": "Langage R",
+    "icon": "https://img.icons8.com/color/48/000000/r-programming.png"
+  },
+  {
+    "name": "Bash & Linux",
+    "icon": "https://img.icons8.com/color/48/000000/linux.png"
+  },
+  {
+    "name": "Git / GitLab",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "Jenkins & CI/CD",
+    "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+  },
+  {
+    "name": "Tableau",
+    "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+  },
+  {
+    "name": "KNIME",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Knime_logo.svg/64px-Knime_logo.svg.png"
+  },
+  {
+    "name": "Excel avancé",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"
+  },
+  {
+    "name": "Data Visualisation",
+    "icon": "https://img.icons8.com/color/48/000000/combo-chart--v1.png"
+  },
+  {
+    "name": "WordPress / CMS",
+    "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+  },
+  {
+    "name": "LaTeX & Documentation",
+    "icon": "https://img.icons8.com/ios-filled/50/4a90e2/texshop.png"
+  }
+]

@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\aelh\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Git\\ePortfolio\\ePortfolio\\index.html"
+            "file": "c:\\Users\\abdel\\OneDrive\\Bureau\\ePortfolio\\index.html"
         }
     ]
 }
